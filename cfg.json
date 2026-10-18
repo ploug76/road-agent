@@ -1,0 +1,3 @@
+{"TITLE":"Road Agent","SHORT":"Road Agent","THEME":"#c8282c","BG":"#2c6c34","KEY":"ra","VER":"ra-v1","TEMPO":125,
+"CSS":"#bar{position:fixed;left:0;right:0;bottom:8px;display:none;justify-content:space-between;padding:0 8px;z-index:4;pointer-events:none}#bar button{pointer-events:auto;width:96px;height:60px;border:3px solid #fff;border-radius:14px;background:rgba(200,40,44,.8);color:#fff;font:bold 15px 'Courier New',monospace;padding:0;touch-action:none}#bar button.s{background:rgba(40,90,200,.85)}#bar button.on{filter:brightness(1.4)}",
+"HTML":"<div id=\"bar\"><button data-a=\"fire\">FIRE</button><button data-a=\"spec\" class=\"s\" id=\"specb\">SPECIAL</button></div>"}
